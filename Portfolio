@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css sheet.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Photography Portfolio</title>
+</head>
+<body>
+
+<div class="container">
+  <img src="C:\Users\rajen\Documents\D Drive\digital design\WhatsApp Image 2024-03-23 at 09.52.21_3cca386a.jpg" alt="Snow" style="width:100%;">
+  <div class="top-left" style="font-size: 35px;color: black"><font face= Telegraf>R Shalini</div>
+  <div class="top-left" style="font-size: 50px; margin-top: 35px;color: black;">Photographic Portfolio*</div>
+</div>
+
+<table>
+<tr><th><img src="C:\Users\rajen\Pictures\kashmir\IMG-20240323-WA0017.jpg" style="size: 40px;"></th><th>Name</th><th>Roll no</th></tr>
+<tr><td>the dog's life</td><td>Shalini</td><td>21</td></tr>
+</table>
+</body>
+
+<footer style="background-color: ghostwhite;">
+  <div class="row">
+    <div class="col">
+
+
+      <p style="font-size: 50px; margin-inline: 35px; margin-bottom: 25px;margin-top: -70px;">Get In Touch
+        <ul type="none">
+        <li>
+          <img src="C:\Users\rajen\Pictures\WhatsApp Image 2024-03-08 at 13.44.00_2bf3038b.jpg"; style="height: 400px;width: 390px;margin-bottom: 10px;"> 
+        </li>
+        </ul>
+      </p>
+    </div>
+
+    <div class="col1">
+      <p style="margin-left: -50px">Find me on social media<ul type="none" style="padding-top: 0px; margin-left: -90px">
+    <li>Instagram</li>
+    <li>Facebook</li>
+    <li>LinkedIn</li>
+    </ul></p><br>
+
+    <p style="margin-left: -50px">My locations<ul type="none" style="padding-bottom: 200px;margin-left: -90px">
+    <li>Porur</li>
+    <li>Osian Chlorophyll, 2023</li>
+    <li>Chennai</li>
+  </ul>
+  </p>
+    </div>
+  </div>
+
+  <footer>
+    <div class="link">
+      <div class="Blog">
+      <p style="margin-inline: 40px;"><a href="https://mycolorpolaroid.blogspot.com/">mycolorpolaroid.blogspot.com
+      </p>
+    <div class="Blog1">
+      <p style="margin-inline: 40px;">rajendranshalini1111@gmail.com
+      </p>
+    </div>
+      </div>
+  </footer>
