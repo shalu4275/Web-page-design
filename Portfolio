@@ -18,27 +18,150 @@
 </head>
 <body>
   <div class="container">
-    <img src="C:\Users\rajen\Documents\D Drive\digital design\WhatsApp Image 2024-03-23 at 09.52.21_3cca386a.jpg" style="width:110%;">
+    <img src="C:\Users\rajen\Documents\D Drive\digital design\WhatsApp Image 2024-03-23 at 09.52.21_3cca386a.jpg" style="width:100.5%;">
     <div class="top-left" style="font-size: 35px;color: black"><font face= Telegraf>R Shalini</div>
-    <div class="top-left" style="font-size: 50px; margin-top: 45px;color: black;"><b>Photographic Portfolio*</b></div>
-  </div>
+      <div class="top-left" style="font-size: 50px; margin-top: 45px;color: black;"><b>Photographic Portfolio*</b></div>
+    </div>
 
 
-  <div style="background-color: lightblue; height: 600px;">
-    <div class="row1">
-      <div class="col2">
-        <p style="font-size: 45px; margin-inline: 135px; margin-top: 60px;"><b>About
+    <div style="background-color: white; height: 690px;width: 1510px;">
+      <div class="row1">
+        <div class="col2">
+          <p style="font-size: 45px; margin-inline: 135px; margin-top: 60px;"><b>About
             <div style="color: darkred;font-size: 45px;margin-top: -100px;margin-left: 275px;">*</div>
           </b>
         </p>
-        <p style="font-size: 15px;margin-inline: 135px;line-height: 30px;">I am a budding photographer eager in sharing my work with <br>you guys. My passion remains the same - painting with light to<br> evoke emotion. As someone deeply passionate about<br> photography, my greatest joy lies in sharing my work to others<br> embark on their own creative journey behind the lens. With a<br> heart fueled by a love for visual storytelling. i don’t have a<br> particular style, it various through out my journey of<br> photography.</p>
+        <p style="font-size: 18px;margin-inline: 130px;line-height: 30px;">I am a budding photographer eager in sharing my work with you guys. My passion remains the same - painting with light to evoke emotion. As someone deeply passionate about photography, my greatest joy lies in sharing my work to others embark on their own creative journey behind the lens. With a heart fueled by a love for visual storytelling. i don’t have a particular style, it various through out my journey of photography.</p>
       </div>
       <div class="col2">
-        <img src="C:\Users\rajen\Pictures\WhatsApp Image 2024-03-08 at 13.44.00_2bf3038b.jpg"; style="height: 400px;width: 390px;">
+        <img src="C:\Users\rajen\Pictures\WhatsApp Image 2024-03-08 at 13.44.00_2bf3038b.jpg"; style="height: 500px;width: 470px;">
       </div>
     </div>
   </div>
-<footer style="background-color: ghostwhite;">
+
+<!-- work -->
+  <div style="background-color: black; padding-top: 20px;">
+    <p style="font-size: 45px; margin-inline: 135px; margin-top: 60px;color: white;"><b>Work*</b></p>
+    <div class="imgrow" style="margin-left: 140px">
+      <div class="imgcol">
+        <img src="C:\Users\rajen\Pictures\kashmir\IMG-20240323-WA0017.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+
+      <div class="imgcol">
+        <img src="D:\WhatsApp Image 2024-04-10 at 08.38.38_e56a817e.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+
+      <div class="imgcol">
+        <img src="C:\Users\rajen\Pictures\kashmir\IMG-20240323-WA0010.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+    </div>
+    
+    
+    <!-- text row 1 -->
+    <div class="imgrow" style="margin-left: 135px;color: white;">
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">Sneak peak of furry pets life</h4>
+      </div>
+
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">Kashmir  scenery through my <br> eyes</h4>
+      </div>
+
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">street portraits of people</h4>
+      </div>
+    </div>
+
+
+    <!-- text row 2 -->
+    <div class="imgrow" style="margin-left: 135px;color: white;">
+      <div class="imgcol">
+        <p>Portraits of nameless critters.</p>
+      </div>
+
+      <div class="imgcol">
+        <p>Finding sunshine wherever i go to light<br> up my life.</p>
+      </div>
+
+      <div class="imgcol">
+        <p>Visual stories of ordinary people in<br> extraordinary circumstances.</p>
+      </div>
+    </div> <br> <br> <br>
+
+    <!-- image row 2 -->
+    <div class="imgrow" style="margin-left: 140px">
+      <div class="imgcol">
+        <img src="C:\Users\rajen\Pictures\kashmir\IMG-20240323-WA0013.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+
+      <div class="imgcol">
+        <img src="C:\Users\rajen\Pictures\kashmir\IMG-20240323-WA0018.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+
+      <div class="imgcol">
+        <img src="C:\Users\rajen\Pictures\WhatsApp Image 2024-04-15 at 14.50.36_3a22c2ba.jpg";
+        style="object-fit:fill;
+        width:300px;
+        height:400px;
+        border: solid 1px #CCC"/>
+      </div>
+    </div>
+
+<!-- text row 1<2> -->
+    <div class="imgrow" style="color: white;margin-left: 135px">
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">The beauty in the sky<br> captured through my lens</h4>
+      </div>
+
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">Streets of the world</h4>
+      </div>
+
+      <div class="imgcol">
+        <h4 style="text-transform: uppercase;">Aesthetics of mother nature</h4>
+      </div>
+    </div>
+
+
+<!-- text row 2<2> -->
+<div class="imgrow" style="margin-left: 135px;color: white; padding-bottom: 150px;">
+      <div class="imgcol">
+        <p>Cotton candy skies for life.</p>
+      </div>
+
+      <div class="imgcol">
+        <p>Finding Beauty in chaos.</p>
+      </div>
+
+      <div class="imgcol">
+        <p>Finding peace and serenity in beauty.</p>
+      </div>   
+  </div>
+
+
+
+
+  <footer style="background-color: ghostwhite;">
     <div class="row">
       <div class="col">
         <p style="font-size: 45px; margin-inline: 35px; margin-bottom: 25px;margin-top: -70px;">
@@ -81,4 +204,4 @@
     </div>
   </footer>
 </footer>
-</html>
+</html> 
