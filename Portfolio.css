@@ -1,0 +1,92 @@
+#navbar ul li a{
+  display: inline;
+  padding: 5px;
+}
+
+#navbar ul{
+  list-style: none;
+  float:right;
+}
+
+#navbar ul li{
+  float: left;
+}
+
+.link{
+  display: flex;
+}
+.Blog{flex:1;
+  background-color: white;
+  padding-top:100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  margin: 0px;
+  height: 10px;
+  font-size: 20px;
+}
+
+.row{
+	display: flex;
+}
+.col{flex:1;
+  background-color: white;
+  padding-top:100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  margin: 0px;
+  height: 300px;
+  font-size: 20px;
+}
+.col1{flex:1;
+  background-color: white;
+  padding-left:-50px;
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 300px;
+  font-size: 20px;
+}
+
+tr,td{
+	border:solid; 
+	border-width: 100px;
+	border-color: white}
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
